@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/cookingrecipes/eduart-images/master/15.jpg
 https://raw.githubusercontent.com/cookingrecipes/eduart-images/master/17.jpg
 
 {% endcapture %}
-{% include gallery images=images caption="Oil canvas" cols=1 %}
+{% include gallery images=images caption="Oil canvas" cols=3 %}
 
 
 
