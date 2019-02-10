@@ -9,9 +9,9 @@ comments: false
 ---
 <center><b>Eduard Duta</b> - canvas artist</center>
  
-<center>You can buy one of the <b>available</b> canvas or order your own. Get inspired from my <b>portfolio</b>. Shipping in the EU.
+<center>You can buy one of the <b>available</b> canvas or order your own. Get inspired from my <b>portfolio</b>. Shipping worldwide.
 
-Get in touch at info@eduart.gallery.</center>
+Get in touch via e-mail <b>info@eduart.gallery</b> or phone <b>004073xxxxxxx</b>.</center>
 
 
 
