@@ -16,12 +16,14 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: $bodycolor;
+	background-color: $white;
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
 	    background-image: none !important;
 		background: $white;
+
+
 	}
 }
 * {
@@ -75,7 +77,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: $hex;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -104,7 +106,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: $creme;
+	background: $hex;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -120,7 +122,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: -3rem auto 4rem;
-	background: $white;
+	background: $hex;
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
