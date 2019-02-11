@@ -33,7 +33,7 @@
 
 // headings
 h3.title a {
-	color: $color_shark;
+	color: $hex;
 	text-decoration: none;
 }
 
@@ -48,13 +48,13 @@ h3.title a {
 		padding: 10px 18px;
 		margin: 0 10px;
 		text-decoration: none;
-		background: $hex;
-		color: $color_shark;
-        border: solid 2px $black;
+		background: $eduard;
+		color: $hex;
+        border: dotted 1px $hex;
 		a {
 			@include font-rem(20);
 			text-decoration: none;
-			color: $color_shark;
+			color: $hex;
 			font-weight: bolder;
             &:hover {
                 color: $red;
@@ -91,15 +91,15 @@ figcaption {
 // links
 a {
   transition: color .4s;
-  color: $color_shark;
+  color: $hex;
   &:link {
-  	color: $color_shark;
+  	color: $hex;
   }
   &:visited {
-  	color: $color_tuatara;
+  	color: $hex;
   }
   &:hover {
-  	color: $red;
+  	color: $black;
   }
   &:active {
   	transition: color .3s;
